@@ -40,6 +40,7 @@ int TestRandom();
 int TestNumericLimits();
 int TestBitset();
 int TestTypeTraits();
+int TestCppCXTypeTraits();
 int TestSmartPtr();
 int TestList();
 int TestListMap();
@@ -73,6 +74,7 @@ int TestBitVector();
 int TestIterator();
 int TestRatio();
 int TestChrono();
+int TestOptional();
 
 
 // Now enable warnings as desired.
